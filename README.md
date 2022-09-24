@@ -9,5 +9,4 @@ Learning how to create tables and plots which can reflect changes from wodgets.
 (Widgets - Interactive Pipeline - Dataframe) 
 
 The source data is obtained from the world data bank, which contains country population from 1960 to 2021.
-
-![panel_overview](https://user-images.githubusercontent.com/101177476/192091811-224c3d64-654c-4c96-ab13-dce80184f13d.png)
+![panel_overview](https://user-images.githubusercontent.com/101177476/192092427-40a563d6-38f9-4746-a7bc-8752243a0a3c.png)
