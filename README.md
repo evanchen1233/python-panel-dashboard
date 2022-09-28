@@ -4,7 +4,7 @@ In this project, I want to explore the panel package in python and make a intera
 
 Learning what widget and pipeline objects are and how to create them.
 
-Learning how to create tables and plots which can reflect changes from wodgets.
+Learning how to create tables and plots which can reflect changes from widgets.
 
 (Widgets - Interactive Pipeline - Dataframe) 
 
